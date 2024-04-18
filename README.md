@@ -1,20 +1,21 @@
-***TIC TAC TOE***
+# Tic Tac Toe
 
- * This is a simple code made for the classic _tic tac toe_ game in C, which allows 2players to go against eachother in 3X3 grid.
+This is a simple code for the classic game of Tic Tac Toe implemented in C. It allows two players to compete against each other on a 3x3 grid.
 
-  **FEATURES**
+## Features
 
-    * This game has simple and straightforward command line, making it easy to understand, play and maintain.
-    * It allows player to take turns to play against eachother and automatically find the winner or when the game ends in draw.
-    * It ensures that the players input valid moves.
+- Simple and straightforward command-line interface for easy understanding, playing, and maintenance.
+- Players take turns making moves, and the game automatically determines the winner or declares a draw.
+- Input validation ensures that players make valid moves.
 
-   **HOW TO PLAY**
-   
-     * Download the file.
-     * Open new terminal and type.
+## How to Play
 
-```gcc ttc1.c ``` then ``` ./a.exe ```
+1. Download the file.
+2. Open a new terminal and type:
+   ```bash
+   gcc ttc1.c
+   ```
+3. then `   ./a.exe   `
 
-     *Then, the program will run, _ENJOY_ 
-
-     
+4. The program will run, allowing you to enjoy the game.
+### Enjoy!
